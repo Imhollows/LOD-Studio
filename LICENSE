@@ -1,0 +1,254 @@
+LOD STUDIO PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — 2026
+
+Copyright © 2026 LOD Studio.
+All rights reserved.
+
+IMPORTANT: Replace “LOD Studio” above with the legal name of the copyright
+holder or registered company before publishing this license.
+
+1. DEFINITIONS
+
+“Software” means the LOD Studio application, including its executable files,
+source code, user interface, documentation, installers, updates, assets,
+configuration files, and any other materials distributed with it.
+
+“Licensor” means the legal copyright holder of the Software.
+
+“User” means any individual or legal entity that installs, accesses, or uses
+an officially distributed copy of the Software.
+
+2. LIMITED LICENSE GRANT
+
+Subject to compliance with this License, the Licensor grants the User a
+limited, personal, non-exclusive, non-transferable, non-sublicensable, and
+revocable right to install and use an officially distributed copy of the
+Software for its intended purpose.
+
+This License grants permission to use the Software only. It does not transfer
+ownership of the Software or any intellectual property rights to the User.
+
+3. OWNERSHIP
+
+The Software is licensed, not sold.
+
+The Licensor retains all rights, title, and interest in and to the Software,
+including all copyrights, trademarks, trade secrets, design rights, database
+rights, and other intellectual property rights.
+
+All rights not expressly granted under this License are reserved by the
+Licensor.
+
+4. RESTRICTIONS
+
+Unless the Licensor has provided prior written permission, the User may not:
+
+a. copy, reproduce, republish, distribute, sell, rent, lease, sublicense,
+   transfer, assign, host, or commercially exploit the Software;
+
+b. modify, adapt, translate, merge, alter, or create derivative works based on
+   the Software;
+
+c. reverse engineer, decompile, disassemble, decode, extract, reconstruct, or
+   otherwise attempt to discover the source code, algorithms, internal
+   structure, or non-public interfaces of the Software, except where such a
+   restriction is expressly prohibited by applicable law;
+
+d. bypass, remove, disable, interfere with, or circumvent any licensing,
+   authentication, access-control, update, security, integrity, or technical
+   protection mechanism;
+
+e. remove, hide, modify, or falsify any copyright, trademark, attribution,
+   license, authorship, or proprietary notice;
+
+f. use the Software, its name, branding, interface, code, assets, or
+   documentation to create or promote a competing or substantially similar
+   product;
+
+g. publish or disclose source code, private builds, internal documentation,
+   credentials, signing keys, private APIs, or confidential information
+   relating to the Software;
+
+h. use the Software for unlawful activity, copyright infringement, unauthorized
+   access, or the circumvention of third-party licenses, encryption, escrow,
+   access restrictions, or security mechanisms;
+
+i. use automated systems to abuse, overload, probe, scrape, or interfere with
+   any online service associated with the Software.
+
+5. AUTHORIZED RESOURCE USE
+
+The User is solely responsible for ensuring that they have the necessary
+rights and permissions to open, inspect, edit, optimize, convert, export, or
+distribute any vehicle, texture, clothing item, map, model, script, or other
+resource processed with the Software.
+
+The Software does not grant the User any rights over third-party content.
+
+6. BACKUPS AND DATA
+
+The User is responsible for maintaining independent backups of all important
+files and projects.
+
+Although the Software may provide backup, recovery, history, or non-destructive
+editing features, these features do not replace an independent backup strategy.
+
+The Licensor is not responsible for lost, corrupted, overwritten, deleted, or
+incompatible files, except where liability cannot legally be excluded.
+
+7. UPDATES AND CHANGES
+
+The Licensor may provide updates, corrections, new versions, or additional
+features at its discretion.
+
+Updates may modify, replace, remove, or discontinue features. Unless separate
+terms are provided, updates remain subject to this License.
+
+The Licensor may discontinue the Software or any connected service at any time,
+subject to applicable law and any separate written agreement.
+
+8. THIRD-PARTY COMPONENTS
+
+The Software may contain or rely on third-party libraries, frameworks, codecs,
+tools, assets, or other components.
+
+Those components remain subject to their respective licenses and notices.
+Where a third-party license conflicts with this License, that third-party
+license applies only to the relevant third-party component.
+
+Nothing in this License limits rights expressly granted under an applicable
+third-party open-source license.
+
+9. FEEDBACK
+
+Any ideas, suggestions, bug reports, or other feedback voluntarily submitted
+to the Licensor may be used to improve the Software without restriction or
+compensation, unless otherwise agreed in writing.
+
+The User retains ownership of any original material contained in their
+feedback.
+
+10. CONFIDENTIAL OR PRE-RELEASE VERSIONS
+
+Any alpha, beta, preview, testing, private, or unreleased version of the
+Software may be incomplete, unstable, or confidential.
+
+The User may not distribute, demonstrate, benchmark publicly, publish, or
+disclose a confidential or pre-release version without prior written
+permission from the Licensor.
+
+11. TERMINATION
+
+This License is effective until terminated.
+
+The User’s rights under this License terminate automatically if the User
+breaches any term of this License.
+
+Upon termination, the User must stop using the Software and delete all copies
+in their possession or control, except where retention is required by law.
+
+Termination does not affect rights or remedies that accrued before
+termination.
+
+12. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+“AS IS” AND “AS AVAILABLE,” WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND.
+
+THE LICENSOR DISCLAIMS ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+ACCURACY, AVAILABILITY, SECURITY, NON-INFRINGEMENT, COMPATIBILITY, AND
+UNINTERRUPTED OR ERROR-FREE OPERATION.
+
+NO INFORMATION OR ADVICE PROVIDED BY THE LICENSOR CREATES A WARRANTY UNLESS
+EXPRESSLY STATED IN A SIGNED WRITTEN AGREEMENT.
+
+13. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR
+CONSEQUENTIAL LOSS OR DAMAGE, INCLUDING LOSS OF DATA, FILES, PROFITS, REVENUE,
+BUSINESS, REPUTATION, OR SERVICE AVAILABILITY, ARISING FROM OR RELATED TO THE
+SOFTWARE.
+
+WHERE LIABILITY CANNOT BE FULLY EXCLUDED, THE LICENSOR’S TOTAL AGGREGATE
+LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY THE USER FOR THE SOFTWARE DURING
+THE TWELVE MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM, OR THE MINIMUM
+AMOUNT REQUIRED BY APPLICABLE LAW IF NO PAYMENT WAS MADE.
+
+Some jurisdictions do not allow certain exclusions or limitations. In those
+jurisdictions, the above provisions apply only to the maximum extent permitted
+by law.
+
+14. INDEMNIFICATION
+
+To the extent permitted by applicable law, the User agrees to defend,
+indemnify, and hold harmless the Licensor from claims, losses, liabilities,
+damages, and reasonable costs arising from:
+
+a. the User’s unlawful or unauthorized use of the Software;
+
+b. resources processed or distributed by the User without sufficient rights;
+
+c. the User’s breach of this License;
+
+d. the User’s violation of third-party rights.
+
+15. TRADEMARKS
+
+“LOD Studio,” its logo, visual identity, and related product names may be
+trademarks or protected commercial identifiers of the Licensor.
+
+No trademark license is granted under this License. The User may not use the
+Licensor’s branding in a manner that suggests sponsorship, affiliation, or
+endorsement without prior written permission.
+
+16. EXPORT AND LEGAL COMPLIANCE
+
+The User must comply with all applicable laws and regulations, including
+copyright, privacy, consumer protection, trade sanctions, and export-control
+requirements.
+
+The User may not use or distribute the Software where doing so would violate
+applicable law.
+
+17. SEVERABILITY
+
+If any provision of this License is found invalid or unenforceable, that
+provision shall be interpreted or limited to the minimum extent necessary, and
+the remaining provisions shall remain in effect.
+
+18. NO WAIVER
+
+A failure or delay by the Licensor to enforce any provision of this License
+does not waive the Licensor’s right to enforce it later.
+
+19. ENTIRE AGREEMENT
+
+This License constitutes the complete agreement concerning the rights granted
+here, unless the User and Licensor have entered into a separate written
+agreement.
+
+Any separate signed commercial agreement, subscription agreement, or end-user
+license agreement takes priority where it expressly conflicts with this
+License.
+
+20. GOVERNING LAW
+
+This License shall be governed by the laws applicable in the Licensor’s legal
+jurisdiction, without regard to conflict-of-law principles.
+
+Before commercial distribution, the Licensor should replace this paragraph
+with the chosen country, province, state, and competent courts.
+
+21. CONTACT
+
+Licensing and legal inquiries:
+
+Copyright holder: LOD Studio
+Email: [LEGAL CONTACT EMAIL]
+Website: [OFFICIAL WEBSITE]
+
+Replace the placeholders above before publication.
+
+END OF LICENSE
